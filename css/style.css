@@ -902,7 +902,7 @@ footer .footer-visibled {
     top: 0;
     left: -100%;
     width: 50%;
-    height: 100vh;
+    height: 100%;
     padding: 20px 15px;
     transition: 0.6s all;
     background-color: rgba(0, 0, 0, 0.8);
